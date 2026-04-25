@@ -2794,16 +2794,6 @@
 		)
 		(uuid ad2c1195-6e33-4cb0-8d9a-1a737897814a)
 	)
-	(text "TREBA ODREDITI KOLIKI OSIGURAC JE POTREBAN\n"
-		(exclude_from_sim no)
-		(at 104.902 224.536 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "005bc5ef-1cdf-4fd8-8be0-f8b2c954446b")
-	)
 	(text "12V -> 5V"
 		(exclude_from_sim no)
 		(at 83.566 35.306 0)
@@ -2815,6 +2805,16 @@
 			)
 		)
 		(uuid "14f6254d-9622-4417-a413-602c0c59a416")
+	)
+	(text "PROVERITI VREDNOSTI KONDENZATORA\n"
+		(exclude_from_sim no)
+		(at 74.93 19.558 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "16321d15-e3fb-4a3e-bd76-f16f958f2d32")
 	)
 	(text "POSTOJI GRESKA SA NAPAJANJEM\n"
 		(exclude_from_sim no)
@@ -2849,16 +2849,6 @@
 			)
 		)
 		(uuid "32dcbc44-3bc8-4b69-a4c7-af90650ef7d9")
-	)
-	(text "TREBA ODREDITI KOLIKI OSIGURAC JE POTREBAN\n"
-		(exclude_from_sim no)
-		(at 104.902 219.456 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "3f056dbf-1171-4c47-a8eb-8c290bc27cf7")
 	)
 	(text "Connector"
 		(exclude_from_sim no)
@@ -2896,16 +2886,6 @@
 		)
 		(uuid "966ec0f2-2835-4e17-b528-b8ca5243f2f6")
 	)
-	(text "TREBA ODREDITI KOLIKI OSIGURAC JE POTREBAN\n"
-		(exclude_from_sim no)
-		(at 104.902 221.996 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "9e820c81-7256-4cb1-ad1d-1243734f7f07")
-	)
 	(text "Power Supply & SPI Interface"
 		(exclude_from_sim no)
 		(at 19.812 26.67 0)
@@ -2918,6 +2898,16 @@
 			(justify left)
 		)
 		(uuid "da0fe404-83ea-4615-9bc3-1e3c2c3f59cd")
+	)
+	(text "TREBA ODREDITI KOLIKI OSIGURAC JE POTREBAN\n"
+		(exclude_from_sim no)
+		(at 179.578 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "fcf17820-cab0-4fe1-980c-5369ce195b68")
 	)
 	(junction
 		(at 71.12 102.87)
