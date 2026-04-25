@@ -1,0 +1,14 @@
+# backups
+*.zip
+TempSens-backups/
+
+# KiCad backup fajlovi
+*-bak
+*.kicad_prl
+
+# cache
+fp-info-cache
+
+# OS
+.DS_Store
+
