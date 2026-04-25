@@ -2,13 +2,10 @@
 *.zip
 TempSens-backups/
 
-# KiCad backup fajlovi
-*-bak
+# KiCad temp / local
 *.kicad_prl
-
-# cache
+*-bak
 fp-info-cache
 
 # OS
 .DS_Store
-
